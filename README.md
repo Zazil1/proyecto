@@ -87,20 +87,6 @@
 </div>
 
 <div class="container-fluid">
-<div class="p-3 mb-2 bg-info text-white"><h1>Sketch del Arcade:</h1> </div>
-<div class="container-fluid">
-<img src=”C:/Users/atzir/OneDrive/Documentos/TEC/7mo/programación 2/arcade1.jpg”>
-</div>
-</div>
-
-<div class="container-fluid">
-<div class="p-3 mb-2 bg-info text-white"><h1>Primer Prototipo:</h1></div>
-<div class="container-fluid">
-<img src=”C:/Users/atzir/OneDrive/Documentos/TEC/7mo/programación 2/arcade2.jpg”>
-</div>
-</div>
-
-<div class="container-fluid">
 <div class="p-3 mb-2 bg-info text-white"><h1>User data:</h1></div>
 <p class="text-secondary"><b>Metas</b></p>
 <p class="text-secondary"><b>Objetivo General:</b> Validar la idea de nuestro proyecto</p>
@@ -150,4 +136,14 @@ Nuestro usuario son estudiantes adultos mayores de 18 años, interesados en las 
 <p class="text-secondary"> Nuestra aplicación pretende lograr estos objetivos: la concientización a través del juego de los discursos de odio, así como la identificación de los mismos en el propio lenguaje y en el de los demás. Nos dimos cuenta que nuestra aplicación no está logrando al 100% que las personas entiendan que las frases perpetúan discursos de odio, lo cual hace que nuestra aplicación no cumpla su propósito. ¿Cómo podemos mejorar nuestra aplicación para que nuestros clientes sepan identificar estos discursos de odio basado en una pequeña encuesta final para saber si logran identificarlos o no?</p>
 <p class="text-secondary">
 Mis clientes deben reconocer los discursos e ideologías nocivas de las figuras públicas que circulan por los diferentes medio de comunicación. El medio más práctico que encontramos es el de una aplicación en línea (videojuego). Pensamos que las universidades y las redes sociales son nuestros clientes iniciales/potenciales más próximos. El valor número uno que le ofrecemos a nuestros clientes es la conciencia. Beneficios adicionales son el entretenimiento, la información y el desarrollo de la capacidad crítica. La mayoría de estos clientes llegarán a través de promociones y campañas publicitarias. Obtendremos ingresos a través de la venta de la propia aplicación, el cual será un costo mínimo, y además la publicidad que vendamos en el sitio web y redes sociales. Nuestro mayor competidor son otros videojuegos, así como los riesgos pueden incluir la falta de diseño, la competencia, etc.
+
+
+	  </p>
+
+</div>
+
+</body>
+
+</html>
+
 
